@@ -20,7 +20,7 @@
 ## 🧠 Một chút về mình
 
 ```txt
-Tên: Hoaf
+Tên: Hòa
 Username: hoafff
 Trạng thái: always learning...
 Sở thích: code, khám phá công nghệ, tối ưu project
