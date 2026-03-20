@@ -30,9 +30,9 @@ Châm ngôn: Làm trước, hoàn thiện sau.
 
 ## 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoafff&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoafff&layout=compact&theme=tokyonight)
---- 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoafff&show_icons=true&theme=tokyonight&cache_seconds=21600&v=2)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoafff&layout=compact&theme=tokyonight&cache_seconds=21600&v=2)
 ## 📫 Connect
 
 GitHub: [hoafff](https://github.com/hoafff)
