@@ -16,15 +16,9 @@
 
 ## > whoami
 
-```yaml
-name: Hoaf
-mindset: "Learn → Build → Test → Improve"
-interests:
-  - FPGA & digital system design
-  - SystemVerilog / UVM verification
-  - Embedded systems
-  - AI pipelines & developer automation
-```
+<div align="center">
+  <img src="./assets/about-terminal.svg" width="100%" alt="HOAF developer profile. Focus: FPGA, digital design, SystemVerilog UVM verification, embedded systems and AI automation." />
+</div>
 
 Mình thích học thông qua việc **xây project thật**, tìm hiểu hệ thống hoạt động như thế nào và kiểm chứng những gì mình viết. Các repo bên dưới trải từ RTL/verification, embedded đến công cụ tự động hóa và xử lý dữ liệu.
 
@@ -69,13 +63,10 @@ Mình thích học thông qua việc **xây project thật**, tìm hiểu hệ t
 
 ## How I work
 
-```text
-[ IDEA ] ---> [ DESIGN / BUILD ] ---> [ TEST / VERIFY ] ---> [ ITERATE ]
-    ^                                                     |
-    +-----------------------------------------------------+
-```
-
-> **“Làm trước, hoàn thiện sau.”** — nhưng luôn kiểm thử và ghi rõ những gì đã/chưa được xác minh.
+<div align="center">
+  <img src="./assets/engineering-loop.svg" width="100%" alt="Engineering workflow: Idea, Design and Build, Test and Verify, Iterate. Repeat to keep improving." />
+  <p><em>“Làm trước, hoàn thiện sau.” — nhưng luôn kiểm thử và ghi rõ những gì đã/chưa được xác minh.</em></p>
+</div>
 
 ## GitHub Activity
 
