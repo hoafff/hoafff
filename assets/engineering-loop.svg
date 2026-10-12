@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="256" viewBox="0 0 1120 256" role="img" aria-labelledby="title desc">
+<title id="title">How I work — engineering iteration loop</title>
+<desc id="desc">Four steps: Idea, Design and Build, Test and Verify, Iterate, with a continuous feedback loop.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0E192B"/><stop offset="1" stop-color="#151F36"/></linearGradient>
+<linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#68DEDF"/><stop offset=".6" stop-color="#8AC8F9"/><stop offset="1" stop-color="#BAA3FF"/></linearGradient>
+</defs>
+<rect width="1120" height="256" rx="16" fill="url(#bg)"/>
+<rect x="1.5" y="1.5" width="1117" height="253" rx="14.5" fill="none" stroke="#435D7D" stroke-width="2"/>
+<text x="28" y="33" font-family="Consolas,Menlo,monospace" font-size="16" fill="#8AA6C6" letter-spacing="2">WORKFLOW  /  ENGINEERING LOOP</text>
+<g stroke="#7ADCE3" stroke-width="2.4" fill="none" opacity=".95" stroke-linecap="round" stroke-linejoin="round">
+<path d="M266 116H295m-8 -7 8 7 -8 7"/>
+<path d="M542 116H571m-8 -7 8 7 -8 7"/>
+<path d="M818 116H847m-8 -7 8 7 -8 7"/>
+</g>
+<g font-family="Arial,Helvetica,sans-serif">
+<rect x="28" y="55" width="238" height="122" rx="13" fill="#182D43" stroke="#4BABB7" stroke-width="1.5"/>
+<rect x="304" y="55" width="238" height="122" rx="13" fill="#1A2A46" stroke="#587AA8" stroke-width="1.5"/>
+<rect x="580" y="55" width="238" height="122" rx="13" fill="#1D2946" stroke="#767FBC" stroke-width="1.5"/>
+<rect x="856" y="55" width="238" height="122" rx="13" fill="#252743" stroke="#A194D4" stroke-width="1.5"/>
+<g font-size="14" font-weight="700" letter-spacing="1.4">
+<text x="45" y="80" fill="#7CE3E1">STEP 01</text><text x="321" y="80" fill="#9AC7F5">STEP 02</text>
+<text x="597" y="80" fill="#B9B4F9">STEP 03</text><text x="873" y="80" fill="#D0B9FC">STEP 04</text>
+</g>
+<g font-size="23" font-weight="700" fill="#EFF6FF">
+<text x="45" y="119">IDEA</text><text x="321" y="119">DESIGN / BUILD</text>
+<text x="597" y="119">TEST / VERIFY</text><text x="873" y="119">ITERATE</text>
+</g>
+<g font-size="16" fill="#AFC5DD">
+<text x="45" y="149">Explore a problem</text><text x="321" y="149">Make it real</text>
+<text x="597" y="149">Check the evidence</text><text x="873" y="149">Refine the result</text>
+</g>
+</g>
+<path d="M975 181v29H142v-29" stroke="url(#bar)" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+<path d="M134 189L142 180L150 189" fill="none" stroke="#7DE1DE" stroke-width="2.2" stroke-linejoin="round"/>
+<rect x="465" y="197" width="195" height="27" rx="13" fill="#15283A" stroke="#42677A"/>
+<text x="562" y="215" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="14" fill="#A7CFE5">CONTINUOUS LEARNING</text>
+</svg>
