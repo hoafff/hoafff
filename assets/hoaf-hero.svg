@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="328" viewBox="0 0 1200 328" role="img" aria-labelledby="title desc">
+<title id="title">HOAF — Build. Verify. Automate.</title>
+<desc id="desc">Dark engineering-themed banner with circuit traces and cyan-violet accents.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A1223"/><stop offset=".56" stop-color="#101B32"/><stop offset="1" stop-color="#11132D"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#68E3EB"/><stop offset="1" stop-color="#B5A0FF"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#6B72E9" stop-opacity=".2"/><stop offset="1" stop-color="#6B72E9" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#8CA5D7" stroke-opacity=".075" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="328" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="328" rx="20" fill="url(#grid)"/>
+<circle cx="956" cy="162" r="220" fill="url(#glow)"/>
+<rect x="1.5" y="1.5" width="1197" height="325" rx="19" fill="none" stroke="#506484" stroke-opacity=".5" stroke-width="2"/>
+<path d="M40 38h33 M40 38v27 M1160 290h-33 M1160 290v-27" fill="none" stroke="#77DDE8" stroke-width="3" stroke-linecap="round"/>
+<text x="72" y="63" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="4" fill="#8CA3C6">DEVELOPER PROFILE  /  HOAFFF</text>
+<text x="66" y="164" font-family="Arial,Helvetica,sans-serif" font-size="101" font-weight="800" letter-spacing="2" fill="#ECF6FF">HOAF<tspan fill="url(#accent)">.</tspan></text>
+<text x="72" y="212" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700" letter-spacing="2" fill="url(#accent)">BUILD. VERIFY. AUTOMATE.</text>
+<path d="M72 236H565" stroke="#4F6387" stroke-width="1.5"/>
+<text x="72" y="267" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="1.5" fill="#BACBE1">FPGA  /  SYSTEMVERILOG  /  EMBEDDED  /  AI TOOLS</text>
+<g stroke="#80DAED" stroke-opacity=".38" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M805 64h87l35 35 M1069 92h50l27-27 M786 188h86l30-30 M1083 188h52l27 27 M814 257h72l35-35 M1093 258h46"/>
+<path d="M970 73V47 M1013 73V36 M969 260v28 M1012 260v32"/>
+</g>
+<g fill="#66E6E9"><circle cx="805" cy="64" r="4"/><circle cx="786" cy="188" r="4"/><circle cx="814" cy="257" r="4"/><circle cx="1162" cy="215" r="4"/></g>
+<g fill="#BEA6FF"><circle cx="1146" cy="65" r="4"/><circle cx="1139" cy="258" r="4"/><circle cx="1012" cy="36" r="4"/><circle cx="1012" cy="292" r="4"/></g>
+<rect x="911" y="76" width="170" height="174" rx="22" fill="#182743" stroke="#6E96C8" stroke-width="2"/>
+<rect x="928" y="93" width="136" height="140" rx="14" fill="#0D192D" stroke="#4D6E9A" stroke-width="1.5"/>
+<rect x="945" y="110" width="102" height="105" rx="11" fill="#162B44"/>
+<text x="996" y="173" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="48" font-weight="700" fill="#77E8E9">&gt;_</text>
+<path d="M946 192h100" stroke="#BBA5F3" stroke-width="2"/>
+<g stroke="#8CB3E1" stroke-width="5" stroke-linecap="round">
+<path d="M925 62v15 M960 62v15 M995 62v15 M1030 62v15 M1065 62v15 M925 251v15 M960 251v15 M995 251v15 M1030 251v15 M1065 251v15"/>
+</g>
+</svg>
