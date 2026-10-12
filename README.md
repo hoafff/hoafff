@@ -53,19 +53,19 @@ Mình thích học thông qua việc **xây project thật**, tìm hiểu hệ t
 
 **Digital hardware & verification**
 
-![FPGA](https://img.shields.io/badge/FPGA-142238?style=flat-square&labelColor=142238&color=52C9CD)
-![RTL](https://img.shields.io/badge/RTL_Design-142238?style=flat-square&labelColor=142238&color=52C9CD)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-142238?style=flat-square&labelColor=142238&color=8D86DD)
-![UVM](https://img.shields.io/badge/UVM-142238?style=flat-square&labelColor=142238&color=8D86DD)
-![C](https://img.shields.io/badge/C-142238?style=flat-square&labelColor=142238&color=8D86DD)
+![FPGA](https://img.shields.io/badge/-FPGA-52C9CD?style=flat-square)
+![RTL](https://img.shields.io/badge/-RTL_Design-52C9CD?style=flat-square)
+![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-8D86DD?style=flat-square)
+![UVM](https://img.shields.io/badge/-UVM-8D86DD?style=flat-square)
+![C](https://img.shields.io/badge/-C-8D86DD?style=flat-square)
 
 **Software, AI & automation**
 
-![Python](https://img.shields.io/badge/Python-142238?style=flat-square&labelColor=142238&color=52C9CD)
-![TypeScript](https://img.shields.io/badge/TypeScript-142238?style=flat-square&labelColor=142238&color=52C9CD)
-![Node.js](https://img.shields.io/badge/Node.js-142238?style=flat-square&labelColor=142238&color=8D86DD)
-![Git](https://img.shields.io/badge/Git-142238?style=flat-square&labelColor=142238&color=8D86DD)
-![Kaggle](https://img.shields.io/badge/Kaggle-142238?style=flat-square&labelColor=142238&color=8D86DD)
+![Python](https://img.shields.io/badge/-Python-52C9CD?style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-52C9CD?style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-8D86DD?style=flat-square)
+![Git](https://img.shields.io/badge/-Git-8D86DD?style=flat-square)
+![Kaggle](https://img.shields.io/badge/-Kaggle-8D86DD?style=flat-square)
 
 ## How I work
 
